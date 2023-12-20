@@ -13,6 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
+DERP_BUILDTYPE=Official
 
 COMMON_PATH := device/samsung/gta4xl-common
 
